@@ -1,2 +1,2 @@
 FROM nginx
-COPY . /user/share/nginx/html dest
+COPY . /usr/share/nginx/html dest
